@@ -1,1 +1,1 @@
-# MLP-SVM
+# MLP
